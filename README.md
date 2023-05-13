@@ -5,7 +5,7 @@ Proyecto: Borrador de aplicación para viajes
 * [1. Intro](https://github.com/AlessandraSTEM/CIIAE_App#1-intro)
 * [2. Qué construí](https://github.com/AlessandraSTEM/CIIAE_App#2-qu%C3%A9-constru%C3%AD)
 * [3. Objetivo del Proyecto](https://github.com/AlessandraSTEM/CIIAE_App#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/AlessandraSTEM/CIIAE_App/blob/main/README.md#4-link-a-demo)
+* [4. Link a Demo](https://github.com/AlessandraSTEM/CIIAE_App#4-link-a-demo)
 
 ****
 
