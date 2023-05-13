@@ -15,13 +15,13 @@ Para nuestra materia de Administración de Proyectos Tecnológicos, decidimos cr
 ## 2. Qué construí
 En este proyecto nos enfocamos en construir el prototipo básico de lo que sería una app que hace reservaciones.
 Contiene las siguientes secciones: 
-* Pantalla inicial de carga: Sección que involucra la foto de mi perfil, iconos y el menu con hipervínculos.
-* Pantalla de ingreso de información: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones. 
-* Pantalla de carga: Sección que incluye hipervínculos al final de la página.
-* Pantalla de reservación concretada:
+* Pantalla inicial de carga: Pantallazo que se presentaría cuando se abriera la app.
+* Pantalla de ingreso de información: Pantallazo que muestra todos los espacios a llenar por el usuario para poder hacer la reservación. 
+* Pantalla de carga: Pantallazo que se presentaría mientras se carga la pantalla siguiente de reservación concretada.
+* Pantalla de reservación concretada: El pantallazo de reservación concretada, aparece una vez que la reservación estuviese hecha, mostrando un mensaje para confirmar al usuario que ya esta lista.
 
 ## 3. Objetivo del Proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
+Ir elaborando prototipos de lo que llegará a ser nuestra aplicación para viajeros.
 
 ## 4. Link a demo
 Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://luxury-dodol-32cc72.netlify.app/)
