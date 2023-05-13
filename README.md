@@ -24,4 +24,4 @@ Contiene las siguientes secciones:
 Ir elaborando prototipos de lo que llegará a ser nuestra aplicación para viajeros.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [CIIAE Prototipo App](https://luxury-dodol-32cc72.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [CIIAE Prototipo App](https://x.thunkable.com/projectPage/645f0de06371a42db6357ac7)
